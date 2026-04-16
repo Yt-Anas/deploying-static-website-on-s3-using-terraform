@@ -67,26 +67,7 @@ Type `yes` when prompted.
 ## 🌐 Output
 After successful deployment, Terraform will provide a website endpoint URL.  
 Open it in your browser to view the hosted static website.
-
----
-
-## ⚠️ Important Notes
-- Ensure AWS credentials are configured (`aws configure`)  
-- Do not upload `.tfstate` files or sensitive data  
-- Make sure your bucket name is globally unique  
-
----
-
-## 📸 Demo
-You can add screenshots of your deployed website here for better presentation.
-
----
-
-## 🎯 Learning Outcomes
-- Hands-on experience with Terraform  
-- Understanding of Infrastructure as Code (IaC)  
-- AWS S3 static website hosting setup  
-- Managing cloud resources programmatically  
+  
 
 ---
 
