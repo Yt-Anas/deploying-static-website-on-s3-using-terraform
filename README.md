@@ -91,7 +91,6 @@ You can add screenshots of your deployed website here for better presentation.
 ---
 
 ## 👨‍💻 Author
-Your Name  
 GitHub: https://github.com/yt-anas
 
 ---
